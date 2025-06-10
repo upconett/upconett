@@ -1,13 +1,23 @@
 ![Relative date](https://img.shields.io/date/1657056000?style=for-the-badge&logo=curseforge&logoColor=white&logoSize=auto&label=I%20STARTED&labelColor=lightblue&color=white)
 
-## I'm Stepan, Python developer from Siberia ❄️
-### My capabilities:
- - **Telegram Bots** 🤖 <sup>Aiogram 3.x</sup>
- - **Web Parsing** 🕷️ <sup>Requests & Selenium</sup>
- - **Desktop Apps** 💻 <sup>PyQt5</sup>
- - **Linux Administration** 🐧
+## Hello, I'm Stepan, aspiring developer and student :)
 
-### My aspirations:
- - **Web Apps** 🍃 <sup>Java Spring & Django</sup>
+> Give some time, I'm developing skillset to cope with boredom
 
+### 📖 Know some:
+ - **Web Apps** 🍃 <sup>FastAPI, Django, Vue, JQuery</sup>
+ - **Telegram** 🤖 <sup>AIOgram 3.x, Pyrogram, TDLib</sup>
+ - **Desktop** 💻 <sup>PySide, QT</sup>
+ - **DBs** 💾 <sup>Postgres, SQLite, MongoDB, Redis</sup>
+ - **Linux** 🐧 <sup>use Arch btw</sup>
+
+### 🛠️ Working on:
+- [Database Playground](https://github.com/Delta-Software-Innopolis/Database-Playground) (studies project)
+- [gen-botpic](https://github.com/upconett/gen-botpic) (cli app for botpic generation)
+
+---
+
+### 🤝 Feel free to contact me anytime
+- Telegram: [@SteePT](https://t.me/@SteePT)
+- GMail: upconett@gmail.com
 ---
