@@ -7,13 +7,12 @@
 ### 📖 Know some:
  - **Web Apps** 🍃 <sup>FastAPI, Django, Vue, JQuery</sup>
  - **Telegram** 🤖 <sup>AIOgram 3.x, Pyrogram, TDLib</sup>
- - **Desktop** 💻 <sup>PySide, QT</sup>
- - **DBs** 💾 <sup>Postgres, SQLite, MongoDB, Redis</sup>
+ - **Desktop** 💻 <sup>PySide, QT, Tkinter</sup>
+ - **DBs** 💾 <sup>Postgres, SQLite, MongoDB, Redis, Elasticsearch</sup>
  - **Linux** 🐧 <sup>use Arch btw</sup>
 
 ### 🛠️ Working on:
-- [Database Playground](https://github.com/Delta-Software-Innopolis/Database-Playground) (studies project)
-- [gen-botpic](https://github.com/upconett/gen-botpic) (cli app for botpic generation)
+- [Academic Tutorship Bot](https://github.com/one-zero-eight/academic-tutorship-bot) (for 108)
 
 ---
 
