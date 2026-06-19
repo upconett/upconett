@@ -1,22 +1,13 @@
-![Relative date](https://img.shields.io/date/1657056000?style=for-the-badge&logo=curseforge&logoColor=white&logoSize=auto&label=I%20STARTED&labelColor=lightblue&color=white)
+## Hello, here is something about me
 
-## Hello, I'm Stepan, aspiring developer and student :)
+### Languages
+`Russian`, `English`, `Python3`, `C/C++`, `Java`, `HTML`, `CSS`, `JS/TS`
 
-> Give some time, I'm developing skillset to cope with boredom
+### Projects
+- [LeetCode](https://github.com/upconett/leetcode): grinding questions for the job
+- [Academic Tutorship Bot](https://github.com/one-zero-eight/academic-tutorship-bot): convenience tool for my friends in [IU](https://innopolis.university)
+- [ExamHacker](https://github.com/Delta-Software-Innopolis/exam-hack): studies project of summer 2026
 
-### 📖 Know some:
- - **Web Apps** 🍃 <sup>FastAPI, Django, Vue, JQuery</sup>
- - **Telegram** 🤖 <sup>AIOgram 3.x, Pyrogram, TDLib</sup>
- - **Desktop** 💻 <sup>PySide, QT, Tkinter</sup>
- - **DBs** 💾 <sup>Postgres, SQLite, MongoDB, Redis, Elasticsearch</sup>
- - **Linux** 🐧 <sup>use Arch btw</sup>
-
-### 🛠️ Working on:
-- [Academic Tutorship Bot](https://github.com/one-zero-eight/academic-tutorship-bot) (for 108)
-
----
-
-### 🤝 Feel free to contact me anytime
-- Telegram: [@SteePT](https://t.me/@SteePT)
-- GMail: upconett@gmail.com
----
+### Other links
+- 💬 [t.me/SteePT](https://t.me/SteePT)
+- 📫 upconett@gmail.com
