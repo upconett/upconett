@@ -9,5 +9,5 @@
 - [ExamHacker](https://github.com/Delta-Software-Innopolis/exam-hack): studies project of summer 2026
 
 ### Other links
-- 💬 [t.me/SteePT](https://t.me/SteePT)
+- 💬 [t.me/upconett](https://t.me/upconett)
 - 📫 upconett@gmail.com
